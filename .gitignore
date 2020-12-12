@@ -1,0 +1,8 @@
+.settings
+CMSIS
+StdPeriph_Driver
+.cproject
+.project
+*.ld
+*.cfg
+Debug
